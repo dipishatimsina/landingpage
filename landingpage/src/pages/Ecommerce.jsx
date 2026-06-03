@@ -42,7 +42,6 @@ function App() {
         )}
       </nav>
 
-      {/* Hero with background image */}
       <section id="home" className="relative h-[500px] flex items-center justify-center text-center bg-cover bg-center" style={{ backgroundImage: "url('https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=1600&h=600&fit=crop')" }}>
         <div className="absolute inset-0 bg-black/40"></div>
         <div className="relative z-10 max-w-2xl mx-auto px-6 text-white">
